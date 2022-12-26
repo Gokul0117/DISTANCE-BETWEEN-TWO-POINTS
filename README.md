@@ -22,7 +22,8 @@ print("{:.2f}".format(d))
 ```
 
 ### OUTPUT:
-![EXP3](https://user-images.githubusercontent.com/121165938/209552296-5c445e7d-d9e5-4399-8e3c-20f8941d8876.png)
+![exp3 (2)](https://user-images.githubusercontent.com/121165938/209552778-ef02a3f4-649b-4cbb-8ac6-182c459d1f86.png)
+
 
 
 ### RESULT:
